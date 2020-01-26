@@ -19,7 +19,7 @@ Allows manipulation of JSON.
 
 ## Installation
 
-Load `SimpleJSON.mRC` located in the root folder onto mIRC.
+Load `SimpleJSON.mrc` located in the root folder onto mIRC.
 
 ## Usage
 
