@@ -7,11 +7,12 @@ Allows manipulation of JSON.
 - Read from file.
 - Read from text.
 - Write to file.
-- Add items to an object.
-- Delete items from an object.
-- Stringify.
-- Type of keys.
-- Name of keys.
+- Add properties to an object.
+- Gets value of property.
+- Delete properties from an object.
+- Stringifies an object.
+- Type of properties.
+- Name of properties.
 
 ## Dependencies
 
