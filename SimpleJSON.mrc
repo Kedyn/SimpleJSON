@@ -188,14 +188,14 @@ alias jsonAdd {
 * @identifier $jsonGet
 *
 * @param <name>      Name of the container.
-* @param <property>  Property to be deleted.
+* @param <property>  Property to be return.
 *
 * @returns  The value of the property.
 *
 * @global
 *
 */
-alias -l jsonGet {
+alias jsonGet {
   if ($isid) {
     if ($0 >= 2) {
       set -l %name = $+(JSON,$1)
